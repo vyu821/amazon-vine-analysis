@@ -6,3 +6,9 @@ You are to choose a dataset from Amazon Review Datasets and, using PySpark, to p
 ## Resources
 - [Video_Games_Amazon_Review_Dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz)
 - Software: Google Colaboratory, PostgreSQl 12.4, pgAdmin 4.24, Visual Studio Code 1.47.2, Amazon Web Services (AWS)
+
+## Challenge Results
+
+| ![vine_paid](images/vine_paid.png) |
+|:----------------------------------:|
+| ![vine_unpaid](images/vine_unpaid.png) |
