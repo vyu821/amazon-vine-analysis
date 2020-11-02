@@ -14,3 +14,7 @@ You are to choose a dataset from Amazon Review Datasets and, using PySpark, to p
 | ![vine_paid](images/vine_paid.png) |
 | **Non-Vine Review Statstics** |
 | ![vine_unpaid](images/vine_unpaid.png) |
+
+- There were a total of **94** Vine reviews and **40471** non-Vine reviews.
+- **48** of the Vine reviews were 5 stars. **15663** of the non-Vine reviews were 5-stars.
+- The percentage of 5-star Vine reviews is **51%**. The percentage of 5-star non-Vine reviews is **39%**.
