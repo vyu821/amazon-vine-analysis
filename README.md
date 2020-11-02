@@ -18,3 +18,6 @@ You are to choose a dataset from Amazon Review Datasets and, using PySpark, to p
 - There were a total of **94** Vine reviews and **40471** non-Vine reviews.
 - **48** of the Vine reviews were 5 stars. **15663** of the non-Vine reviews were 5-stars.
 - The percentage of 5-star Vine reviews is **51%**. The percentage of 5-star non-Vine reviews is **39%**.
+
+## Challenge Summary
+There is a positivity bias for reviews in the Vine program. Looking at the percentages for Vine and non-Vine reviews, we can see that Vine reviews are more likely to be rated 5 stars. An additional analysis we can make is to check if the Vine reviews had any affect on helpful votes. Being in the Vine program might influence how people vote on the reviews.
