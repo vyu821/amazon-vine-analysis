@@ -10,7 +10,7 @@ You are to choose a dataset from Amazon Review Datasets and, using PySpark, to p
 ## Challenge Results
 
 | Vine Review Statstics |
+|:--------------------------------------:|
 | ![vine_paid](images/vine_paid.png) |
-|:----------------------------------:|
 | Non-Vine Review Statstics |
 | ![vine_unpaid](images/vine_unpaid.png) |
